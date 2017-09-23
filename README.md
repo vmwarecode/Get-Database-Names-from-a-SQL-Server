@@ -1,0 +1,1 @@
+# Get-Database-Names-from-a-SQL-Server
